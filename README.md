@@ -1,4 +1,4 @@
 # exercise-repo
+Repo for exercising
+The conflict is resolved!
 
-A conflict is about to happen!!!
-Du-DU-duuuu...
