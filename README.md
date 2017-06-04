@@ -1,4 +1,4 @@
 # exercise-repo
+This project will contain...
 Repo for exercising
-The conflict is resolved!
-
+Hello, world!
