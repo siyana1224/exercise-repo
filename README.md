@@ -1,2 +1,4 @@
 # exercise-repo
-Repo for exercising
+
+A conflict is about to happen!!!
+Du-DU-duuuu...
